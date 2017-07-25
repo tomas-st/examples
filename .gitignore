@@ -38,7 +38,7 @@ cscope.*
 **/.hg
 **/.hg*
 
-password.txt
+password*.txt
 
 .tags*
 
